@@ -62,6 +62,12 @@ A powerful C# WPF-based tool to perform brute-force attacks against routers and 
 
 ---
 
+## ☕ Support Me
+If you like this project, feel free to [buy me a coffee](https://ko-fi.com/G2G114SBVV)!
+
+[![Buy Me a Coffee](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G114SBVV)
+
+
 ## 📦 Future Upgrades
 
 - [ ] Add support for Form-Based login brute force
